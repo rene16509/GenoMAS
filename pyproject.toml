@@ -3,3 +3,4 @@ name = "genomas"
 version = "0.1.0"
 description = "A minimalist multi-agent framework for rubost automation of scientific analysis workflows, such as gene expression analysis."
 requires-python = ">=3.10"
+# clarify the control flow
